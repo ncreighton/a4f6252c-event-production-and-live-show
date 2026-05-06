@@ -1,2 +1,31 @@
-# a4f6252c-event-production-and-live-show
-A Notion workspace for event production companies, venue managers, and live show promoters managing technical requirements and show production. Features an artist and performer technical rider database with stage plot storage, equipment inventory with maintenance logs, production timeline builder with crew call sheet generation, vendor and supplier
+# Event Production and Live Show Technical Rider Manager Notion Template
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/bJe3cvcLl5wg6xy0VecZa33)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/bJe3cvcLl5wg6xy0VecZa33)
+- [Buy on Gumroad](https://mythicalgamer2.gumroad.com/l/dgraez)
+- [Buy on Whop](https://whop.com/event-production-and-live-show-technical-rider-manager-notion-template)
+
